@@ -31,7 +31,8 @@ Tällä hetkellä ei ole tiedossa kriittisiä virheitä.
 
  ### Kuvakaappaukset
   ___
-
+![Virheilmoituksen esimerkki](https://github.com/Bobito1923/Projekti-3-JS-sovellus-ulkoisia-kirjastoja-k-ytt-en/blob/ba75f39fb715f032b2386bced7a136d9b174eb53/Screenshot%202026-06-08%20224308.png)
+![Valmiin tehtävän esimerkki](https://github.com/Bobito1923/Projekti-3-JS-sovellus-ulkoisia-kirjastoja-k-ytt-en/blob/ba75f39fb715f032b2386bced7a136d9b174eb53/Screenshot%202026-06-08%20224300.png)
 
  ### Asennus
   ___
